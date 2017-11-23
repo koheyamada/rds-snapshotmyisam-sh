@@ -1,0 +1,19 @@
+{ 
+  "Instance": [
+  {
+    "<DB Name1>": {
+      "Endpoint": "<EndPoint1>",
+      "User": "<MySQL User1>",
+      "Password": "<MySQL Password1>"
+    }
+  },
+  {
+    "DB Name2": {
+      "Endpoint": "<EndPoint2>",
+      "User": "<MySQL User2>",
+      "Password": "<MySQL Password2>"
+    }
+  }
+  ]
+}
+
