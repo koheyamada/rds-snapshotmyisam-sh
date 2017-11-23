@@ -5,7 +5,7 @@ export AWS_DEFAULT_REGION=ap-northeast-1
 DATE=`date +%Y-%m-%d-%H-%M`
 
 WORKDIR=`dirname $0`
-PARAMS="$WORKDIR/rds-create-snapshot.json"
+PARAMS="$WORKDIR/rds-snapshotmyisam.json"
 GENERATIONS=7
 
 COUNT=0
