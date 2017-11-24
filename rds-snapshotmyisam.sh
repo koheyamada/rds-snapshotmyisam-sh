@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ============================= #
+# Copyright © 2017 kohei YAMADA
+# ============================= #
+
 export AWS_DEFAULT_REGION=ap-northeast-1
 
 DATE=`date +%Y-%m-%d-%H-%M`
